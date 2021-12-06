@@ -30,5 +30,7 @@ I explored different use cases of Modzy AI's API service.
 
 ## What's next for Amazon product reviews - sentiment analysis
 **1**.I am going to improve the model's accuracy by using NLP BERT. 
+
 **2**.I wanted to create a web application for this project. Since I am not good at web development I have included this for future development. 
+
 **3**.In this user friendly web  application people can enter the product name to view it's sentiScore. This will also include features like comparing sentiScore of different brands of same product so that people can choose the best brand for the product they wish to purchase.
