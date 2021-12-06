@@ -1,4 +1,6 @@
 # Amazon-product-review-using-Modzy-AI-API
+
+Link for demo: https://youtu.be/bhIBwuEyWEg
 ## Inspiration
 I have seen _Amazon product reviews_ where customers' star rating doesn't seem to match with their text reviews. Hence I felt it is also important to convert text reviews into numeric data and provide a score that is a combination of star rating and text reviews.
 
